@@ -1,0 +1,57 @@
+/*DOCUMENTO CSS*/
+
+*{ margin: 0;
+    padding: 0;}
+
+body { background-color: darkgray; }
+
+.logo { width: 70px; }
+
+h1{ font-family: "Poetsen One", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    color: #cc1f1f;
+    text-align: center;}
+
+h2 { font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style:normal;
+    color: #aa0000;
+    text-align: center;}
+
+h3 {font-family: "Rowdies", sans-serif;
+    font-weight: 500;
+    color: #400000;
+    font-size: large; }
+
+.container { padding: 20px 0px ;
+             margin-bottom: 5px; }
+
+.btn { color: whitesmoke !important; }
+
+.nav-item a:hover { color: #222529;
+                    background-color: #ff0000; }
+   
+.nav-item { color: #ff0000;
+            background-color: #222529; }
+   
+   
+   
+   
+.navbar-expand-xl .navbar-nav .nav-link{ color: whitesmoke !important;
+                                         font-family: "Barlow", sans-serif;
+                                         font-weight: 700;
+                                         font-style: normal; }
+
+.pie { background-color: #000000;
+       text-align: center;
+       padding: 23px 0px; 
+       color: #ffffff;
+       font-family: "Freeman", sans-serif;}
+                                     
+.pie a:hover { color: #ffffff;
+               background-color: #ff0000; }
+                                     
+.pie a:active { color: #ff0000;
+                background-color: #ffffff; }
